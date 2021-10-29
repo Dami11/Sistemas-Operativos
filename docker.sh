@@ -19,7 +19,7 @@
 
 # Ruta del docker compose
 
-cd C:\xampp\htdocs\SSOO\Docker
+cd C:\xampp\htdocs\Docker
 
 # Ejecución del docker compose
 
