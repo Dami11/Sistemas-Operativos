@@ -1,3 +1,3 @@
-cd C:\Users\Usuario\Documents\dumps
+# Dump de la Base de datos 
 
-mysqldump -u root -p aulasdata > aulasdataDump.sql
+mysqldump -u root -p damian_mesa > damian_mesaDump.sql
